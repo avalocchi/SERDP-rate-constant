@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+scipy
+arviz
+seaborn
+xarray
+netcdf4
+h5netcdf
+streamlit>=1.53
